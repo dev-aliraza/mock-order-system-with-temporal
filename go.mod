@@ -1,6 +1,6 @@
 module github.com/dev-aliraza/mock-order-system-with-temporal
 
-go 1.21.1
+go 1.23.2
 
 require (
 	github.com/bytedance/sonic v1.11.6 // indirect
